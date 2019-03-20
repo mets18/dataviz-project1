@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Project Title : Uber Vs. Lyft Vs. Yellow Cabs in NYC
 
 Team Members: Mohamed, Mark, Harneet, Feng Sheng
@@ -20,3 +21,7 @@ Rough Breakdown of Tasks
     - Analyze Data clean-up and prep required
     - Identify trends to analyze
     - Get to work
+=======
+# projectplan
+# Mark Reilly
+>>>>>>> 92371a28b624b1def1d9ccd5d144e2e4c7f3f6e6
