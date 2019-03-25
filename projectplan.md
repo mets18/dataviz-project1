@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+# projectplan
+<<<<<<< HEAD
+
+This is combined plan and my name is mohamed.
+=======
+# Mark Reilly
+>>>>>>> 92371a28b624b1def1d9ccd5d144e2e4c7f3f6e6
+=======
 Project Title : Uber Vs. Lyft Vs. Yellow Cabs in NYC
 
 Team Members: Mohamed, Mark, Harneet, Feng Sheng
@@ -19,4 +28,5 @@ Rough Breakdown of Tasks
     - Identify relevant variables
     - Analyze Data clean-up and prep required
     - Identify trends to analyze
-    - Get to work
+    - Get to work.
+>>>>>>> ca2d77503c2ea48d1762ba444b1dd0642d73007a
