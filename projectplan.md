@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-# projectplan
-<<<<<<< HEAD
 
->>>>>>> 92371a28b624b1def1d9ccd5d144e2e4c7f3f6e6
+# projectplan
+
 =======
 Project Title : Taxi(Green, Yellow) Vs. FHV Cabs in NYC
 
@@ -26,4 +24,4 @@ Rough Breakdown of Tasks
     - Analyze Data clean-up and prep required
     - Identify trends to analyze
     - Get to work.
->>>>>>> ca2d77503c2ea48d1762ba444b1dd0642d73007a
+
