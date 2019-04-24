@@ -1,5 +1,0 @@
-# exclude everything except directory foo/bar
-# exclude everything except directory foo/bar
-TLC_RAW_DATA
-config.py
-api_key.py
