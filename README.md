@@ -19,7 +19,7 @@ Following Key sets of Data were used for this Analysis:
 3. TLC - NYC Locations Master
 4. Google Api use to find Airports in NC Area with their LAT & LONG
 
-#### Data Wrangling amd Preparation ####
+#### Data Wrangling and Preparation ####
 
 1. Daily TLC Data was cleaned up, primarily removing bad data (such as NULL Values or Duplicate Values or where date of ride was out of last12 months horizon). CLeaned up data was summarized at Month and Ride Tyoe (aka Yellow Taxi and FHV) level
     - As TLC files were huge, a common process (Python Code) was executed by each team member to run the clean and create summary data.
